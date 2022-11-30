@@ -1,0 +1,50 @@
+.register{
+    width: 350px;
+    background-color:lightblue;
+     padding: 50px;
+     border-radius: 15px;
+
+}
+.register input{
+    width: 100%;
+    height: 30px;
+    
+}
+.password
+{
+    color:black;
+    margin-left: 110px;
+}
+lable{
+    font-weight: bold;
+}
+/* #sucess{
+    margin-top: 15px;
+}
+
+#cancel{
+    margin-left: 1px;
+} */
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+.log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login input{
+    width: 100%;
+    height: 30px;
+}
+.options{
+    margin-right: 100px;
+}
+.tab{
+    background:lightblue ;
+}
